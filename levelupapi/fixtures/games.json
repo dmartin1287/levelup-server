@@ -1,0 +1,182 @@
+[
+	{
+		"model": "levelupapi.game",
+		"pk": 1,
+		"fields": {
+			"game_type": 1,
+			"title": "Chess",
+			"maker": "Classic Games",
+			"gamer": 1,
+			"number_of_players": 2,
+			"skill_level": 5
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 2,
+		"fields": {
+			"game_type": 1,
+			"title": "Monopoly",
+			"maker": "Parker Bros",
+			"gamer": 1,
+			"number_of_players": 5,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 3,
+		"fields": {
+			"game_type": 1,
+			"title": "Clue",
+			"maker": "Hasbro",
+			"gamer": 1,
+			"number_of_players": 5,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 4,
+		"fields": {
+			"game_type": 4,
+			"title": "Uno",
+			"maker": "Matel",
+			"gamer": 1,
+			"number_of_players": 4,
+			"skill_level": 2
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 5,
+		"fields": {
+			"game_type": 4,
+			"title": "Spades",
+			"maker": "Bicycle",
+			"gamer": 1,
+			"number_of_players": 4,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 6,
+		"fields": {
+			"game_type": 4,
+			"title": "Hearts",
+			"maker": "Bicycle",
+			"gamer": 1,
+			"number_of_players": 4,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 7,
+		"fields": {
+			"game_type": 2,
+			"title": "Dungeons and Dragons",
+			"maker": "Dungeon Master",
+			"gamer": 1,
+			"number_of_players": 6,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 8,
+		"fields": {
+			"game_type": 2,
+			"title": "Pillars of Eternity",
+			"maker": "Obsidian Entertainment",
+			"gamer": 1,
+			"number_of_players": 6,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 9,
+		"fields": {
+			"game_type": 2,
+			"title": "Wildermyth",
+			"maker": "Worldwalker Games",
+			"gamer": 1,
+			"number_of_players": 6,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 10,
+		"fields": {
+			"game_type": 3,
+			"title": "World Of Warcraft",
+			"maker": " Blizzard Entertainment",
+			"gamer": 1,
+			"number_of_players": 20,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 11,
+		"fields": {
+			"game_type": 3,
+			"title": "The Elder Scrolls Online: Tamriel Unlimited",
+			"maker": " ZeniMax Online Studios",
+			"gamer": 1,
+			"number_of_players": 20,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 12,
+		"fields": {
+			"game_type": 3,
+			"title": "Lord Of the Rings Online",
+			"maker": " Standing Stone Games",
+			"gamer": 1,
+			"number_of_players": 20,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 12,
+		"fields": {
+			"game_type": 5,
+			"title": "Resident Evil 7: Bio Hazard",
+			"maker": "Capcom",
+			"gamer": 1,
+			"number_of_players": 1,
+			"skill_level": 4
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 12,
+		"fields": {
+			"game_type": 5,
+			"title": "Elden Ring",
+			"maker": "FromSoftware",
+			"gamer": 1,
+			"number_of_players": 1,
+			"skill_level": 3
+		}
+	},
+	{
+		"model": "levelupapi.game",
+		"pk": 12,
+		"fields": {
+			"game_type": 5,
+			"title": "League of Legends",
+			"maker": " Riot Games",
+			"gamer": 1,
+			"number_of_players": 1,
+			"skill_level": 3
+		}
+	}
+]
