@@ -17,17 +17,17 @@
 			"user_permissions": []
 		}
 	},
-	{
+	{ 
 		"model": "auth.user",
-		"pk": 1,
+		"pk": 2,
 		"fields": {
 			"password": "Mastermind1397",
 			"last_login": null,
 			"is_superuser": false,
-			"username": "Illumi1287",
-			"first_name": "Illumi",
+			"username": "Killua1287",
+			"first_name": "Killua",
 			"last_name": "Zoldyck",
-			"email": "Illumi@Zoldyck.com",
+			"email": "Killua@Zoldyck.com",
 			"is_staff": false,
 			"is_active": true,
 			"date_joined": "2020-08-2T14:51:39.989Z",
